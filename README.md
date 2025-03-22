@@ -1,4 +1,6 @@
-# Maching-Learning_-记录学习进展
+# Maching-Learning-记录学习进展
+
+## 个人背景
 
 **数学**：高中河南文科高考数学149，后来考研数三137，微积分概统线代基础尚可
 
@@ -6,9 +8,9 @@
 
 **编程**：Python仅了解基础知识，Numpy,Pandas,Matplotlib略了解但不擅长
 
-# 3.11-3-21 完成有监督学习部分 
+## 3.11-3-21 完成有监督学习部分 
 
-[网课链接](https://www.coursera.org/learn/machine-learning)
+[吴恩达机器学习系列课程———有监督的机器学习：回归与分类，网课链接](https://www.coursera.org/learn/machine-learning)
 
 **线性回归**：代价函数、梯度函数、梯度下降
 
